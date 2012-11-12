@@ -1,7 +1,14 @@
 CHANGES
-*******
+=======
+
+2.0.2
+-----
+
+-   Upgrade to 2.0.2.
+
+-   Include non minified version.
 
 2.0.1
-=====
+-----
 
 - 	Initial release.

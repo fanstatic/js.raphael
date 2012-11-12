@@ -1,8 +1,8 @@
 js.raphael
-**********
+==========
 
 Introduction
-============
+------------
 
 This library packages `Raphael`_ for `fanstatic`_.
 
