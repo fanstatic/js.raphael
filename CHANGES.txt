@@ -1,6 +1,13 @@
 CHANGES
 =======
 
+2.1.0-1
+-------
+
+-   Fix package metadata.
+-   Remove unneeded dependencies.
+
+
 2.1.0
 -----
 
